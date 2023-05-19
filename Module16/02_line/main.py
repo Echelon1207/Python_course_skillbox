@@ -1,0 +1,5 @@
+one = list(range(160,177,2))
+two = list(range(162,181,3))
+one.extend(two)
+one.sort()
+print(one)

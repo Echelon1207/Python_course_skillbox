@@ -1,0 +1,5 @@
+menu = input('Введите названия блюд через ; ')
+eat = menu.split(';')
+new_menu = ','.join(eat)
+print('Доступное меню: ',menu)
+print('На данный момент в меню есть: ', new_menu)
