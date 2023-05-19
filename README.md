@@ -1,1 +1,1 @@
-# Python_course_skillbox
+### Решенные мной задачи на языке программирования Python в Skillbox 
